@@ -1,0 +1,121 @@
+package id6cw8lkwmdw04lkwmdw0ym;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#GridPosition:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:cpp#Class#Ship:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}
+/**
+@__ref <oiref:cpp#Class#OwnGrid:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}
+/**
+@__ref <oiref:cpp#Class#OpponentGrid:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}
+/**
+@__ref <oiref:cpp#Class#Board:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}
+/**
+@__ref <oiref:cpp#Class#ConsoleView:oiref><oihard>
+@__modelType reference 
+*/
+class reference5 {
+}
+/**
+@__ref <oiref:cpp#Class#Shot:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAAIc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAX2ho7QAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQADkphc29uLXMtbGFwdG9wdAAJ
+PGRlZmF1bHQ+dAAFSkFTT054c3EAfgACAAABfZdW/ABzcQB+AAUAAAABdwQAAAAKc3EAfgAHdAAO
+SmFzb24tcy1sYXB0b3B0AAk8ZGVmYXVsdD50AAVKQVNPTnhzcQB+AAIAAAF9fZcwAHNxAH4ABQAA
+AAF3BAAAAApzcQB+AAd0AA5KYXNvbi1zLWxhcHRvcHQACTxkZWZhdWx0PnQABUpBU09OeHNxAH4A
+AgAAAX2CvYwAc3EAfgAFAAAAAXcEAAAACnNxAH4AB3QADkphc29uLXMtbGFwdG9wdAAJPGRlZmF1
+bHQ+dAAFSkFTT054c3EAfgACAAABfXNKeABzcQB+AAUAAAABdwQAAAAKc3EAfgAHdAAOSmFzb24t
+cy1sYXB0b3B0AAk8ZGVmYXVsdD50AAVKQVNPTnhzcQB+AAIAAAF9eHDUAHNxAH4ABQAAAAF3BAAA
+AApzcQB+AAd0AA5KYXNvbi1zLWxhcHRvcHQACTxkZWZhdWx0PnQABUpBU09OeHNxAH4AAgAAAX1u
+JBwAc3EAfgAFAAAAAXcEAAAACnNxAH4AB3QADkphc29uLXMtbGFwdG9wdAAJPGRlZmF1bHQ+dAAF
+SkFTT054c3EAfgACAAABfZx9WABzcQB+AAUAAAABdwQAAAAKc3EAfgAHdAAOSmFzb24tcy1sYXB0
+b3B0AAk8ZGVmYXVsdD50AAVKQVNPTnh4
+@elementChangelogs rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAAFdAAkPG9pcmVmOmNwcCNDbGFzcyNPcHBvbmVudEdyaWQ6
+b2lyZWY+c3EAfgAAP0AAAAAAAAx3CAAAABAAAAABc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98C
+AAFKAAV2YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAX2ho7QAc3IAE2ph
+dmEudXRpbC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5s
+LmRvY2Jvb2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJM
+amF2YS9sYW5nL1N0cmluZztMAARuYW1lcQB+AApMAAR1c2VycQB+AAp4cHQADkphc29uLXMtbGFw
+dG9wdAAMT3Bwb25lbnRHcmlkdAAFSkFTT054eHQAHzxvaXJlZjpjcHAjQ2xhc3MjT3duR3JpZDpv
+aXJlZj5wdAAcPG9pcmVmOmNwcCNDbGFzcyNTaGlwOm9pcmVmPnB0ABw8b2lyZWY6Y3BwI0NsYXNz
+I1Nob3Q6b2lyZWY+cHQAJDxvaXJlZjpjcHAjQ2xhc3MjR3JpZFBvc2l0aW9uOm9pcmVmPnB4
+*/
+class __tags {
+}/**
+@__options option.detail = Implementation
+option.referenced = Show name
+option.formatting = UML
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:cpp#Class#OwnGrid:oiref>=910,-30,350,420,0:oigroup>
+<oigroup:<oiref:cpp#Class#Board:oiref>=920,610,260,210,0:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#Board:oiref><Autodependency><oiref:cpp#Class#GridPosition:oiref>=560,620,560,580,100,580,100,269:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Board#opponentGrid:oiref>=1000,610,1000,430,790,430:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Board#ownGrid:oiref>=1050,610,1050,390:oigroup>
+<oigroup:<oiref:cpp#Class#Shot:oiref>=20,310,200,142,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#OpponentGrid#sunkenShips:oiref>=690,190,35,16,0:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OpponentGrid:oiref><Autodependency><oiref:cpp#Class#Ship:oiref>=465,360,465,252:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#OwnGrid#shotAt:oiref>=240,219,26,16,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#OwnGrid#ships:oiref>=803,56,22,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#ConsoleView#board:oiref>=825,685,920,685:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#Board:oiref><Autodependency><oiref:cpp#Class#Ship:oiref>=900,690,930,690,930,230,779,230:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OwnGrid:oiref><Autodependency><oiref:cpp#Class#Impact:oiref>=590,710,-22,710:oigroup>
+<oigroup:<oiref:cpp#Class#ConsoleView:oiref>=650,630,175,110,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OpponentGrid#sunkenShips:oiref>=680,250,680,182:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OpponentGrid:oiref><Autodependency><oiref:cpp#Class#Shot:oiref>=460,381,220,381:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Ship#stern:oiref>=430,34,310,34:oigroup>
+<oigroup:<oiref:cpp#Class#Impact:oiref>=-110,680,88,139,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OwnGrid:oiref><Autodependency><oiref:cpp#Class#GridPosition:oiref>=840,320,840,-40,250,-50,250,10:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OwnGrid:oiref><Autodependency><oiref:cpp#Class#Shot:oiref>=940,390,940,590,250,590,250,420,220,420:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OwnGrid#shotAt:oiref>=910,340,840,340,840,560,270,560,270,219:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Shot#targetPosition:oiref>=140,310,140,219:oigroup>
+<oigroup:<oiref:cpp#Class#OpponentGrid:oiref>=460,250,330,270,0:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OwnGrid:oiref><Autodependency><oiref:cpp#Class#Ship:oiref>=664,350,664,252:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OwnGrid#ships:oiref>=910,76,799,76:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#ConsoleView#board:oiref>=888,665,28,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Ship#bow:oiref>=430,108,310,108:oigroup>
+<oigroup:<oiref:cpp#Class#Ship:oiref>=430,-40,369,222,0:oigroup>
+<oigroup:<oiref:cpp#Class#GridPosition:oiref>=20,-40,290,259,0:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OpponentGrid:oiref><Autodependency><oiref:cpp#Class#GridPosition:oiref>=570,250,570,220,360,220,360,160,310,160:oigroup>
+*/
+class __positions {
+}
